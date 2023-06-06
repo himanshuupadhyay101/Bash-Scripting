@@ -1,1 +1,1 @@
-# Bash-Scripting
+# Bash-Scripting practice during 2020 Devops Training
